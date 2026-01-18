@@ -1,13 +1,4 @@
-Artefacts:
-- Prompts for the pipeline:
-	File: Harmfull_Harmless_Decorated_Prompts.csv
-	Contains the 50 prompts from each category. The prompts of the column "harmful" are from the advBench dataset. They were selected by the h4rm3l-team. Original data from h4rm3l in file "benchmark-advbench-50.csv". Source: 
-- The Decorator set for the attack was choosen from the file "topK-Meta-Llama-3-8B-Instruct.syn_progs.bandit_self_score.mixed.csv", which is a result of the h4rm3l analysis. 
-	Original data source: ""
-
-Here is the text in a well-structured Markdown format:
-
-# Artifacts
+# SENTRY
 
 ## Prompts for the Pipeline
 
